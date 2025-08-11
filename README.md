@@ -85,4 +85,3 @@ You've successfully run a complete fraud detection system with:
 - ~80% F1-Score on real fraud detection
 
 ---
-For detailed documentation, see [README.md](README.md)
