@@ -1,0 +1,11 @@
+# Core Dependencies
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Visualization (Optional but Recommended)
+graphviz>=0.16  # For enhanced tree visualization
+
+# Note: This project does NOT require scikit-learn
+# All algorithms are implemented from scratch
